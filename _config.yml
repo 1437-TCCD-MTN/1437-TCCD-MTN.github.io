@@ -1,5 +1,7 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Programming Fundamentals II
+description: Reading material for classs.
 theme: jekyll-theme-architect
+repository: 1437-TCCD-MTN/1437-tccd-mtn.github.io
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
