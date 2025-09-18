@@ -1,2 +1,6 @@
-<div markdown="span" class="callout callout-{{include.type}}">{{include.content}}</div>
-
+<div markdown="span" class="callout callout-{{include.type}}">
+    {% for item in include.content %}
+    {{item}}<br /><br />
+    {% endfor %}
+    <!-- {{include.content}} -->
+</div>
