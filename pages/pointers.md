@@ -3,6 +3,8 @@ layout: default
 title: Pointers!
 permalink: /pointers/
 ---
+# Pointers!
+
 ## An introduction to Memory & Pointers
 
 Understanding how your computer organizes information.
@@ -16,7 +18,7 @@ Imagine your computer's memory as a very long street with millions of houses lin
 - An **Address:** A unique number that identifies its location on the street (e.g., "123 Main St").
 - **Contents:** The stuff you store inside the house (e.g., your couch, bed, kitchen table).
 
-When you declare a regular variable, like `DECLARE score: INTEGER <- 100`, you are telling the computer: "Hey, find an empty house, label it `score`, and put the number `100` inside." The computer does this and keeps track of the house's address for you.
+When you declare a regular variable, like `DECLARE score: INTEGER ← 100`, you are telling the computer: "Hey, find an empty house, label it `score`, and put the number `100` inside." The computer does this and keeps track of the house's address for you.
 
 > ### So, What is a Pointer?
 >

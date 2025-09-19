@@ -1,6 +1,6 @@
 title: Programming Fundamentals II
 description: Reading material for classs.
-theme: jekyll-theme-architect
+theme: jekyll-theme-hacker
 repository: 1437-TCCD-MTN/1437-tccd-mtn.github.io
 plugins:
   - jekyll-remote-theme

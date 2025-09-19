@@ -1,0 +1,7 @@
+{% for item in site.data.sidebar.toc %}
+<h4>{{ item.title }}</h4>
+{% for entry in item.subfolderitems %}
+<a href="{{ entry.link }}" {% if page.url==entry.link %}class="btn current" {% else %}class="btn" {% endif
+    %}>{{entry.page}}</a><br/>
+{% endfor %}
+{% endfor %}

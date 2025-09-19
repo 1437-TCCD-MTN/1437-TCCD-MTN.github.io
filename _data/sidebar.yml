@@ -1,0 +1,13 @@
+toc:
+- title: Pointers
+  subfolderitems:
+    - page: Pointers 1
+      link: /pointers/
+- title: Object-Oriented Programming
+  subfolderitems:
+    - page: Intro
+      link: /oop/
+    - page: Stepping into Classes
+      link: /classes/
+    - page: Encapsulation
+      link: /encapsulation/
