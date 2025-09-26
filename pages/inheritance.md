@@ -15,3 +15,5 @@ The key characteristics of Inheritance are:
 3. **Family Lineage:** The Subclass is a kind of the Superclass (a `Car` is a `Vehicle`).
 
 However, inheritance is not the only way, or even the most common way, objects are related. If every object interaction used inheritance, our programs would be chaotic family trees. We need other, more flexible forms of relationship.
+
+[Read on - Has-A Relationships! →](/inheritance/has-a/)

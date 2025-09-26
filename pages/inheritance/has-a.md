@@ -33,3 +33,5 @@ The most common alternative to "Is-A" is the **"Has-A"** relationship, also know
 |**Lifetime**|**Independent:** The part's lifetime is managed externally.|If the department is closed, the teacher (the object) is not destroyed.|
 
 **Design Rule:** If the relationship is **"has-a"** but the lifetime of the objects are **not tied** (e.g., membership, association), use Aggregation.
+
+[← Confused? Back to Inheritance!](/inheritance/)        [Read on - Uses-A Relationships! →](/inheritance/uses-a/)

@@ -23,4 +23,4 @@ A **Dependency** is the weakest form of relationship, usually transient and temp
 
 **Design Principle:** When deciding between Inheritance ("Is-A") and Composition ("Has-A"), programmers oftn follow the principle: **"Prefer composition over inheritance."** This is because composition creates flexible code that is less tightly coupled and easier to change later on.
 
-[← Confused? Back to Has-A Relationships](/inheritance/has-a/)    [And now, some examples! →](/inheritance/examples/)
+[← Confused? Back to Has-A Relationships!](/inheritance/has-a/)    [And now, some examples! →](/inheritance/examples/)

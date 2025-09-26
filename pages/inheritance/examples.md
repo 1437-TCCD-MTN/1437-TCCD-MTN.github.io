@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Examples
-permalink: /inheritance/examples
+permalink: /inheritance/examples/
 ---
 
 Now that you've seen the concepts, lets look at some examples of how **Inheritance**, **Composition**, and **Aggregation**.
