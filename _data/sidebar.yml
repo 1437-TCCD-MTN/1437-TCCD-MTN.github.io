@@ -11,3 +11,11 @@ toc:
       link: /classes/
     - page: Encapsulation
       link: /encapsulation/
+- title: Inheritance
+  subfolderitems:
+    - page: Has A Relationships
+      link: /inheritance/has-a/
+    - page: Uses A Relationships
+      link: /inheritance/uses-a/
+    - page: C++ Examples
+      link: /inheritance/examples/

@@ -7,3 +7,4 @@ permalink: /
 
 - [Pointers](/pointers/)
 - [Object-Oriented Programming](/oop/)
+- [Inheritance and Relationships](/inheritance/)
