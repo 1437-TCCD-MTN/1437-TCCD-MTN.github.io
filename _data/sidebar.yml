@@ -19,3 +19,11 @@ toc:
       link: /inheritance/uses-a/
     - page: C++ Examples
       link: /inheritance/examples/
+- title: Polymorphism
+  subfolderitems:
+    - page: Abstraction
+      link: /polymorphism/abstraction/
+    - page: Why use Polymorphism
+      link: /polymorphism/why/
+    - page: C++ Examples
+      link: /polymorphism/examples/
