@@ -77,3 +77,5 @@ CLASS Cat INHERITS Animal
     END METHOD
 END CLASS
 ```
+
+[Read on - Abstraction! →](/polymorphism/abstraction/)

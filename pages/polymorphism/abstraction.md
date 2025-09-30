@@ -31,3 +31,5 @@ FUNCTION print_item(IPrintable item) {
 ```
 
 This single function can now take a `Document`, a `Photo`, or a `Report` - because all of them are guaranteed to have a `print_to_screen()` method.
+
+[← Confused? Back to Polymorphism!](/polymorphism/)        [Read on - Why is this useful anyway? →](/polymorphism/why/)

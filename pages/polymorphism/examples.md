@@ -85,3 +85,4 @@ Woof! Woof!
 2. **Base Class Pointer/Reference:** The magic happens when you interact with the derived object through a pointer or reference to the base class (`Animal*` or `Animal&`). This is why `std::unique_ptr<Animal>` is used.
 3. `virtual` **Destructor:** Declaring the base class destructor as `virtual` is a **best practice.** It ensures that when you delete a derived class object through a base class pointer (e.g., when the `std::unique_ptr` in the vector is cleaned up), the correct derived class destructor is called first, preventing memory and resource leaks.
 
+[← Confused? Back to why!](/polymorphism/why/)
