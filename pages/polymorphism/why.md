@@ -30,4 +30,4 @@ Polymorphism allows you to add new classes to your program **without changing th
 
 If you add a new `Wolf` subclass that inherits from `Animal` and provides its own `speak()` method, you don't need to change the parts of your program that handle a collection of `Animal` objects. All existing code that calls `object.speak()` will automatically work for the new `Wolf` object, making your system easy to extend and maintain.
 
-[← Confused? Back to Abstraction!](/polymorphism/why/)        [Read on - Examples! →](/polymorphism/examples/)
+[← Confused? Back to Abstraction!](/polymorphism/abstraction/)        [Read on - Examples! →](/polymorphism/examples/)
